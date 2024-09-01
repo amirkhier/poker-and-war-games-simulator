@@ -1,4 +1,3 @@
-**poker-and-war-games-simulator**
 # Poker and War Games Simulator
 
 This repository contains Python scripts for simulating poker hands and possibly other card-based games like "War." The project includes data files and Python code that can be used for educational purposes, game theory analysis, or just for fun.

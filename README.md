@@ -1,5 +1,5 @@
-# poker-and-war-games-simulator
-
+**poker-and-war-games-simulator**
+# Poker and War Games Simulator
 
 This repository contains Python scripts for simulating poker hands and possibly other card-based games like "War." The project includes data files and Python code that can be used for educational purposes, game theory analysis, or just for fun.
 
@@ -37,3 +37,27 @@ This repository contains Python scripts for simulating poker hands and possibly 
 You can run the poker hands simulation script by executing the following command:
 ```bash
 python poker_hands.py
+```
+
+
+#### War Game Simulation
+You can run the War game simulation script by executing the following command:
+```bash
+python war_games.py
+```
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Contributing
+
+Please feel free to contribute by opening issues, submitting pull requests, or suggesting new features.
+
+### Acknowledgments
+
+- Any resources or references used.
+- Special thanks to any collaborators.
+
+
+
